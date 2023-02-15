@@ -9,3 +9,6 @@ return removeAll(source, pattern.slice(1))
 }
 
 console.log(removeAll("ImPossible", "Im"))
+
+
+///***UPDATE
